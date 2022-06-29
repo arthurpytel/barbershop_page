@@ -1,10 +1,10 @@
-# pagina_barbearia
+# barbershop_page
 
-Aplicação em HTML e CSS de uma página de barbearia.
+HTML and CSS application of a barber shop page.
 
-Projeto do curso de HTML5 e CSS3, partes 1, 2 e 3, da escola Alura:
+Project from the HTML5 and CSS3 course, parts 1, 2 and 3, from Alura school:
 
-    Parte 1 - https://cursos.alura.com.br/course/html5-css3-primeiros-passos
-    Parte 2 - https://cursos.alura.com.br/course/html5-css3-posicionamento-listas-navegacao
-    Parte 3 - https://cursos.alura.com.br/course/html5-css3-formularios-tabelas
+    Part 1 - https://cursos.alura.com.br/course/html5-css3-primeiros-passos
+    Part 2 - https://cursos.alura.com.br/course/html5-css3-posicionamento-listas-navegacao
+    Part 3 - https://cursos.alura.com.br/course/html5-css3-formularios-tabelas
 
